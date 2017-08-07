@@ -1,2 +1,2 @@
 # stm32Template
-Template Project for the STM32Nucleo-F7
+Template Eclipse Project for the STM32Nucleo-F7
